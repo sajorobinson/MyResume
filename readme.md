@@ -4,8 +4,6 @@ Technical Writer
 
 Indianapolis, Indiana
 
-<sajorobinson@gmail.com>
-
 [LinkedIn](https://www.linkedin.com/in/sajorobinson/)
 
 [GitHub](https://github.com/sajorobinson)
