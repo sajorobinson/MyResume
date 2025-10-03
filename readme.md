@@ -4,9 +4,9 @@ Technical Writer
 
 Indianapolis, Indiana
 
-[LinkedIn](https://www.linkedin.com/in/sajorobinson/)
+<https://www.linkedin.com/in/sajorobinson/>
 
-[GitHub](https://github.com/sajorobinson)
+<https://github.com/sajorobinson>
 
 ## Summary
 
